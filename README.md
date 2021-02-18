@@ -7,7 +7,8 @@ Currently studying: software engineering in Unicesumar Univercity.
 
 - 🔭 I’m currently working on Tauil & Chequer as a I.T Analyst
 - 🌱 I’m currently learning: Firebase, jQuery, Bootstrap, Node, Mongo
-- 📫 How to reach me: https://www.linkedin.com/in/yutaro-negi-de-sousa-44920a172/edit/about/
+- 📫 How to reach me: https://www.linkedin.com/in/yutaronegi/
+- 📱  My mobile phone: +55 11 94194-5061 
 <!--
 **YutaroNegi/YutaroNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
