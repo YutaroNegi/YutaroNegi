@@ -3,7 +3,7 @@ Hi there 👋
 I'm studying to be a full stack developer. 
 Enthusiast in web and mobile development technologies.
 Experienced in creating projects with javascript, html and css. 
-Currently studying: software engineering in Unicesumar Univercity.
+Currently studying: software engineering in Unicesumar University.
 
 - 🔭 I’m currently working on Tauil & Chequer as a I.T Analyst
 - 🌱 I’m currently learning: Firebase, jQuery, Bootstrap, Node, Mongo
