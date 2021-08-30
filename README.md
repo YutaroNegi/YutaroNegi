@@ -1,13 +1,10 @@
-Hi there 👋
+Estudante de desenvolvimento web, interessado por tecnologia, programação.
+Tenho expêriencia em projetos com javascript, html, css, bootstrap, jquery, node, mongo, git e react.
+Cursando engenharia de software na universidade Unicesumar e complementando meu conhecimento com o curso full-stack - programador BR.
 
-I'm studying to be a full stack developer. 
-Enthusiast in web and mobile development technologies.
-Experienced in creating projects with javascript, html and css. 
-Currently studying: software engineering in Unicesumar University.
-
-- 🔭 I’m currently working on Tauil & Chequer as a I.T Analyst
-- 🌱 I’m currently learning: Firebase, jQuery, Bootstrap, Node, Mongo
-- 📫 How to reach me: https://www.linkedin.com/in/yutaronegi/
+- 🔭 Trabalhando na empresa Tauil & Chequer como I.T Analyst
+- 🌱 Aprendendo: Firebase, jQuery, Bootstrap, Node, Mongo
+- 📫 Linkedin: https://www.linkedin.com/in/yutaronegi/
 - 📱  My mobile phone: +55 11 94194-5061 
 <!--
 **YutaroNegi/YutaroNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
