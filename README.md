@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde JAN/2020.<br>📚 Aprendendo testes automatizados.<br>🗣️ Inglês: Avançado.<br>🎯 Goals: Crescer e aprender bastante na área para estar apto para aceitar vagas do exterior.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
+<p align="left">✨ Programando desde JAN/2020.<br>📚 Aprendendo testes automatizados.<br>👨‍🎓 Ensino Superior: Cursando Engenharia de Software na unicesumar<br>🗣️ Inglês: Avançado.<br>🎯 Goals: Crescer e aprender bastante na área para estar apto para aceitar vagas do exterior.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
 
 ###
 
