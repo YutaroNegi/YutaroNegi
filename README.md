@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde JAN/2020.<br>📚 Aprendendo TS, testes automatizados.<br>🗣️ Inglês: Avançado.<br>🎯 Goals: Crescer e aprender bastante na área para estar apto para aceitar vagas do exterior.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
+<p align="left">✨ Programando desde JAN/2020.<br>📚 Aprendendo testes automatizados.<br>🗣️ Inglês: Avançado.<br>🎯 Goals: Crescer e aprender bastante na área para estar apto para aceitar vagas do exterior.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
 
 ###
 
@@ -20,6 +20,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
