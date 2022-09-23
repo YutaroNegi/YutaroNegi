@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Yutaro, sou desenvolver full stack na Live University, e atualmente estou cursando Engenharia de Softaware na UNICESUMAR</p>
+<p align="left">Meu nome é Yutaro, sou desenvolver full stack na Empírica Investimentos, e atualmente estou cursando Engenharia de Softaware na UNICESUMAR</p>
 
 ###
 
