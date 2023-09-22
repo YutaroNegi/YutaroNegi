@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde JAN/2021.<br>👨‍🎓 Cursando Engenharia de Software na UNICESUMAR.<br>🗣️ Inglês: Avançado.<br>🎯 Objetivo: Crescer e aprender bastante na área para estar apto para aceitar vagas do exterior.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
+<p align="left">✨ Programando desde JAN/2021.<br>👨‍🎓 Cursando Engenharia de Software na UNICESUMAR.<br>🗣️ Inglês: Avançado.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
 
 ###
 
