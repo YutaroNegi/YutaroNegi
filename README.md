@@ -1,18 +1,40 @@
-<h1 align="left">Bem vindo!</h1>
+Olá, sou o Yutaro! 👋
 
-###
+Bem-vindo ao meu GitHub, onde paixão e habilidade se encontram para criar soluções inovadoras em desenvolvimento web. Aqui, você encontrará uma coleção de projetos que refletem minha jornada desde o início da minha carreira como freelancer em 2020 até a minha posição atual como Desenvolvedor Full Stack Pleno na Empírica Investimentos.
 
-<p align="left">Meu nome é Yutaro, sou desenvolver full stack na Empírica Investimentos, e atualmente estou cursando Engenharia de Softaware na UNICESUMAR</p>
+🎓 Educação e Aprendizado Contínuo:
 
-###
+Estudante de Engenharia de Software na Unicesumar, com previsão de formatura em 2024.
+Concluí um curso intensivo Full Stack com Igor Oliveira, aprimorando minhas habilidades práticas em desenvolvimento.
 
-<h2 align="left">Sobre mim</h2>
+💼 Experiência Profissional:
 
-###
+Comecei minha carreira profissional em 2021 e rapidamente evoluí para um papel de desenvolvedor pleno.
+Minha experiência abrange desde startups até grandes corporações, com foco especial em resolver desafios complexos e entregar soluções de alto impacto.
 
-<p align="left">✨ Programando desde JAN/2021.<br>👨‍🎓 Cursando Engenharia de Software na UNICESUMAR.<br>🗣️ Inglês: Avançado.<br>🎸 Hobby: Além de programar, minha outra paixão é a guitarra.</p>
+🛠 Habilidades Técnicas:
 
-###
+<b>Linguagens e Frameworks</b>: JavaScript, TypeScript, Node.js, React, EJS, Next.js, Python. <br>
+<b>Front-end e Design</b>: HTML, CSS, SCSS, Bootstrap, Tailwind, Semantic UI, MUI. <br>
+<b>Back-end e Banco de Dados</b>: SQL, MySQL, MongoDB, DynamoDB. <br>
+<b>Ferramentas e Práticas</b>: Git, Docker, AWS (incluindo Lambda e CloudFormation), metodologias Agile. <br>
+<b>Extra</b>: Experiência com microsserviços e SSO.
+
+🚀 Projetos e Colaborações:
+
+Confira meus repositórios para ver uma variedade de projetos que demonstrem minhas habilidades em desenvolvimento full stack.
+Estou sempre aberto a colaborações e oportunidades de aprendizado.
+
+🌍 Visão Global e Comunicação:
+
+Experiência em trabalhar e comunicar-se eficientemente com equipes internacionais.
+Habilidade em explicar e resolver problemas técnicos complexos de maneira clara e eficiente.
+
+📈 Compromisso com a Excelência:
+
+Comprometido em entregar produtos de alta qualidade e otimizar experiências do usuário.
+Apaixonado por aprender e incorporar novas tecnologias e práticas no mundo do desenvolvimento web.
+
 
 <h2 align="left">Eu uso</h2>
 
